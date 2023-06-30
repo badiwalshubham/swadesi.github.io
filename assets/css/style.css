@@ -1,0 +1,98 @@
+.bg-img {
+  /* The image used */
+  background-image: url("assets/img/Bg.png");
+
+  min-height: 527px !important;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+.bg-img2 {
+  /* The image used */
+  background-image: url("assets/img/Lightb.png");
+
+  min-height: 400px !important;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+
+.navbarfirst {
+  position: absolute !important;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #faffff;
+}
+
+.searchbox1 {
+  border-radius: 100px !important;
+}
+/* The navbar */
+
+/* Navbar links */
+
+.nav-link {
+  font-size: 13px !important;
+}
+
+.wallet {
+  font-size: 15px !important;
+  border-radius: 100px !important;
+  text-decoration: #faffff;
+}
+
+.leftcol {
+  margin-top: 120px !important;
+}
+
+.rightcol {
+  margin-top: 120px !important;
+}
+
+.searchbox2 {
+  border-top-left-radius: 30px !important;
+  border-bottom-left-radius: 30px !important;
+}
+
+.buttonbox2 {
+  border-top-right-radius: 30px !important;
+  border-bottom-right-radius: 30px !important;
+}
+
+.smallfont {
+  font-size: 12px !important;
+}
+
+.smallfont1 {
+  font-size: 10px !important;
+}
+
+.smallfont2 {
+  font-size: 11px !important;
+}
+
+.borderradius {
+  border-radius: 20px;
+}
+
+.bgoffwhite {
+  background-color: #e4edff;
+}
+
+.border2 {
+  border-radius: 10px;
+}
